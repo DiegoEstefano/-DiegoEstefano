@@ -8,6 +8,8 @@ Front - End | HTML5 CSS3 & JAVASCRIPT
 
 Back - End |   PHP,  NODE JS  
 
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrestanlley&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/DiegoEstefano/github-readme-stats)
+
 #### Em processo de aprendizagem :🚀🛸
 ![icon](https://programadorbr.com/static/media/React.56d08fb9.png)![icon](https://programadorbr.com/static/media/Bootstrap.2e77467b.png)![icon](https://programadorbr.com/static/media/NodeJS.8e555711.png)
 ## Contato : 🗣
