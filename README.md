@@ -1,5 +1,5 @@
 ## Sobre: 👨‍💻
-Tenho 28 anos, estudante de Análise e desenvolvimento FMU, e Desenvolvedor web UFRN/IMD (Universidade Federal do Rio Grande do Norte ) , Sempre achei incrível como a tecnologia nos possibilita expressar nossas ideias em forma de código e ver algo antes pensado, funcionando e ajudando outras pessoas. Iniciei meus estudos na área de desenvolvimento e praticar projetos antes  mesmo do meu inicio aos cursos. No momento estou me aprofundando em Javascript e frameworks da linguagem. Pretendo ser um Web Developer completo.
+Tenho 29 anos, estudante de Análise e desenvolvimento FMU, e Desenvolvedor web UFRN/IMD (Universidade Federal do Rio Grande do Norte ) , Sempre achei incrível como a tecnologia nos possibilita expressar nossas ideias em forma de código e ver algo antes pensado, funcionando e ajudando outras pessoas. Iniciei meus estudos na área de desenvolvimento e praticar projetos antes  mesmo do meu inicio aos cursos. No momento estou me aprofundando em Javascript e frameworks da linguagem. Pretendo ser um Web Developer completo.
 
 
 ## Tecnologias : 🧑🏻‍💻
