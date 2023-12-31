@@ -11,8 +11,6 @@ Back - End | NODE JS
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrestanlley&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/DiegoEstefano/github-readme-stats)
 
-#### Learning:🚀🛸
-![icon](https://programadorbr.com/static/media/React.56d08fb9.png)![icon](https://programadorbr.com/static/media/NodeJS.8e555711.png)
 ## Contact : 🗣
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-oliveira-b78079213)](https://www.linkedin.com/in/diego-oliveira-b78079213) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/diegoesteff/)](https://www.instagram.com/diegoesteff/) [](https://www.instagram.com/diegoesteff/)
