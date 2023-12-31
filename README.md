@@ -1,8 +1,9 @@
-## Sobre: 👨‍💻
-Tenho 29 anos, estudante de Análise e desenvolvimento FMU, e Desenvolvedor web UFRN/IMD (Universidade Federal do Rio Grande do Norte ) , Sempre achei incrível como a tecnologia nos possibilita expressar nossas ideias em forma de código e ver algo antes pensado, funcionando e ajudando outras pessoas. Iniciei meus estudos na área de desenvolvimento e praticar projetos antes  mesmo do meu inicio aos cursos. No momento estou me aprofundando em Javascript e frameworks da linguagem. Pretendo ser um Web Developer completo.
+## About: 👨‍💻
+I'm 29 years old, a student of Analysis and development FMU, and Web Developer UFRN/IMD (Federal University of Rio Grande do Norte), I've always found it incredible how technology allows us to express our ideas in the form of code and see something previously thought, working and helping other people. I started my studies in the development area and practiced projects even before I started the courses. 
+I'm currently improving my skills in Javascript and React Js. I intend to be a complete Web Developer.
 
 
-## Tecnologias : 🧑🏻‍💻
+## Technologies : 🧑🏻‍💻
 
 Front - End | HTML5, CSS3, JS & React
 
@@ -10,9 +11,9 @@ Back - End | NODE JS
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrestanlley&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/DiegoEstefano/github-readme-stats)
 
-#### Em processo de aprendizagem :🚀🛸
+#### Learning:🚀🛸
 ![icon](https://programadorbr.com/static/media/React.56d08fb9.png)![icon](https://programadorbr.com/static/media/NodeJS.8e555711.png)
-## Contato : 🗣
+## Contact : 🗣
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-oliveira-b78079213)](https://www.linkedin.com/in/diego-oliveira-b78079213) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/diegoesteff/)](https://www.instagram.com/diegoesteff/) [](https://www.instagram.com/diegoesteff/)
 
