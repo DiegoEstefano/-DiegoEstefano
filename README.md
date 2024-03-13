@@ -1,5 +1,5 @@
 ## About: 👨‍💻
-I'm 29 years old, a student of Analysis and development FMU, and Web Developer UFRN/IMD (Federal University of Rio Grande do Norte), I've always found it incredible how technology allows us to express our ideas in the form of code and see something previously thought, working and helping other people. I started my studies in the development area and practiced projects even before I started the courses. 
+I'm 30 years old, a student of Analysis and development FMU, and Web Developer UFRN/IMD (Federal University of Rio Grande do Norte), I've always found it incredible how technology allows us to express our ideas in the form of code and see something previously thought, working and helping other people. I started my studies in the development area and practiced projects even before I started the courses. 
 I'm currently improving my skills in Javascript and React Js. I intend to be a complete Web Developer.
 
 
